@@ -1,2 +1,8 @@
 # Generator-Password
-Gerador de Senha
+### Gerador de Senha
+
+| **Front-end** | **Back-end** | 
+| :-----------: | :----------: | 
+|     Bootstrap |  JavaScript  |  
+|    HTML, CSS  |              |                  
+|               |              |                   
