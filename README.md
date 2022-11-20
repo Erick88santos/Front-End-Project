@@ -3,6 +3,6 @@
 
 | **Front-end** | **Back-end** | 
 | :-----------: | :----------: | 
-|     Bootstrap |  JavaScript  |  
-|    HTML, CSS  |              |                  
+|    HTML       |  JavaScript  |  
+|    CSS        |              |                  
 |               |              |                   
